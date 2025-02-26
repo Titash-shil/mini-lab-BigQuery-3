@@ -10,9 +10,9 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/refs/heads/master/mini%20lab/quicklabbig3.sh
-sudo chmod +x quicklabbig3.sh
-./quicklabbig3.sh
+curl -LO raw.githubusercontent.com/Titash-shil/mini-lab-BigQuery-3/refs/heads/main/qwiklab_explorers.sh
+sudo chmod +x qwiklab_explorers.sh
+./qwiklab_explorers.sh
 ```
 
 ---
